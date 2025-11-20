@@ -1,0 +1,1 @@
+docker build -t sik-multipoint . && docker run --name temp-container sik-multipoint && docker cp temp-container:/usr/src/app/output output && docker rm temp-container
