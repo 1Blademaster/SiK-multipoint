@@ -62,6 +62,10 @@ _To see all other available AT commands, see the [Documentation](https://ardupil
 
 _Here is the official radio [SiK Repository](https://github.com/ArduPilot/SiK)_
 
+## Downloading the firmware
+
+If you don't want to build the firmware from scratch, you can download it from the [releases page](https://github.com/1Blademaster/SiK-multipoint/releases) on this repo. The files uploaded were built when I'm writing this (20/11/2025).
+
 ## Building the firmware
 
 You can very easily build the firmware by running the `run.bat` file in the terminal. This has been tested and works on Windows. If you are using Mac or Linux then you can run the docker commands within the `run.bat` file to build the firmware on your system.
